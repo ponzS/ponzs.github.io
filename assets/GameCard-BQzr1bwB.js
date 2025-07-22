@@ -1,1 +1,0 @@
-import{n as e,_ as n,u as a,A as t,a2 as s}from"./index-SZnxMwDS.js";const r=e({name:"GlassCard"}),d={class:"glass-card"};function c(o,_,p,i,l,f){return a(),t("div",d,[s(o.$slots,"header",{},void 0),s(o.$slots,"content",{},void 0),s(o.$slots,"footer",{},void 0)])}const $=n(r,[["render",c],["__scopeId","data-v-156a73fd"]]);export{$ as _};
