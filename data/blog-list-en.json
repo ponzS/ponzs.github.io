@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": "mesh-network-topology-guide-en",
+      "title": "Complete Guide to Mesh Network Topology: Principles, Advantages, and Real-World Applications",
+      "slug": "mesh-network-topology-guide",
+      "excerpt": "An in-depth exploration of mesh network topology core concepts, technical advantages, implementation challenges, and key application scenarios in modern network architecture.",
+      "author": "Zhang Guoai",
+      "publishDate": "2024-12-15",
+      "updateDate": "2024-12-15",
+      "category": "Technology",
+      "tags": ["Mesh Network", "Network Topology", "Network Architecture", "IoT", "Network Security"],
+      "readTime": 25,
+      "featured": true,
+      "coverImage": "/images/mesh-network-topology.jpg",
+      "contentPath": "/data/posts/mesh-network-topology-guide-en.json"
+    },
+    {
+      "id": "decentralized-networks-p2p-guide-en",
+      "title": "Decentralized Networks and P2P Technology Deep Dive: Building the Foundation of Future Distributed Systems",
+      "slug": "decentralized-networks-p2p-guide",
+      "excerpt": "A comprehensive exploration of decentralized networks and P2P technology, covering core principles, architectural design, application scenarios, and revolutionary impact in blockchain, IoT, and other domains.",
+      "author": "Zhang Guoai",
+      "publishDate": "2024-12-10",
+      "updateDate": "2024-12-10",
+      "category": "Technology",
+      "tags": ["Decentralized", "P2P", "Blockchain", "Distributed Systems", "Network Protocols"],
+      "readTime": 30,
+      "featured": true,
+      "coverImage": "/images/decentralized-networks.jpg",
+      "contentPath": "/data/posts/decentralized-networks-p2p-guide-en.json"
+    }
+  ],
+  "categories": [
+    {
+      "id": "technology",
+      "name": "Technology",
+      "description": "Technical articles and in-depth analysis",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "tutorial",
+      "name": "Tutorial",
+      "description": "Practical tutorials and guides",
+      "color": "#10B981"
+    },
+    {
+      "id": "thoughts",
+      "name": "Thoughts",
+      "description": "Personal thoughts and insights",
+      "color": "#8B5CF6"
+    }
+  ],
+  "tags": [
+    "Mesh Network",
+    "Network Topology",
+    "Network Architecture",
+    "IoT",
+    "Network Security",
+    "Decentralized",
+    "P2P",
+    "Blockchain",
+    "Distributed Systems",
+    "Network Protocols"
+  ]
+}
