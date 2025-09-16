@@ -1,0 +1,11 @@
+{
+  "defaultRelayNodes": [
+    "https://a.talkflow.team/gun",
+    "https://gun.defucc.me/gun",
+    "https://gun-manhattan.herokuapp.com/gun",
+    "https://peer.wallie.io/gun",
+    "https://relay.peer.ooo/gun"
+  ],
+  "description": "Gun.js Relay Nodes",
+  "lastUpdated": "2025-07-25"
+}
