@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "mesh-network-topology-guide-zh",
+      "title": "网状网络拓扑完全指南：原理、优势与实际应用",
+      "slug": "mesh-network-topology-guide",
+      "excerpt": "深入探讨网状网络拓扑的核心概念、技术优势、实施挑战以及在现代网络架构中的关键应用场景。",
+      "author": "张郭艾",
+      "publishDate": "2024-12-15",
+      "updateDate": "2024-12-15",
+      "category": "技术",
+      "tags": ["网状网络", "网络拓扑", "网络架构", "物联网", "网络安全"],
+      "readTime": 25,
+      "featured": true,
+      "coverImage": "/images/mesh-network-topology.jpg",
+      "contentPath": "/md/posts/mesh-network-topology-guide-zh.md"
+    },
+    {
+      "id": "decentralized-networks-p2p-guide-zh",
+      "title": "去中心化网络与P2P技术深度解析：构建未来分布式系统的基石",
+      "slug": "decentralized-networks-p2p-guide",
+      "excerpt": "全面探讨去中心化网络和P2P技术的核心原理、架构设计、应用场景以及在区块链、物联网等领域的革命性影响。",
+      "author": "张郭艾",
+      "publishDate": "2024-12-10",
+      "updateDate": "2024-12-10",
+      "category": "技术",
+      "tags": ["去中心化", "P2P", "区块链", "分布式系统", "网络协议"],
+      "readTime": 30,
+      "featured": true,
+      "coverImage": "/images/decentralized-networks.jpg",
+      "contentPath": "/md/posts/decentralized-networks-p2p-guide-zh.md"
+    },
+    {
+      "id": "gun-database-guide-zh",
+      "title": "Gun数据库完全指南：去中心化实时数据库的革命性应用",
+      "slug": "gun-database-guide",
+      "excerpt": "深入了解Gun数据库的核心特性、技术架构、实际应用场景以及如何构建去中心化的实时应用程序。",
+      "author": "张郭艾",
+      "publishDate": "2024-12-05",
+      "updateDate": "2024-12-05",
+      "category": "技术",
+      "tags": ["Gun数据库", "去中心化", "实时数据库", "P2P", "Web3"],
+      "readTime": 20,
+      "featured": false,
+      "coverImage": "/images/gun-database.jpg",
+      "contentPath": "/md/posts/gun-database-guide-zh.md"
+    }
+  ]
+}

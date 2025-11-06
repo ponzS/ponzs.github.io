@@ -1,0 +1,440 @@
+{
+  "projects": [
+    {
+      "id": "talkflow",
+      "title": {
+        "zh": "TalkFlow - 去中心化AI通信工具",
+        "en": "TalkFlow - Decentralized AI Communication Tool"
+      },
+      "slug": "talkflow",
+      "excerpt": {
+        "zh": "去中心化人工智能应用，包含端到端加密聊天、AI通信工具、通用AI控制器和物联网控制器。支持无人机控制、私有AI连接等创新功能。",
+        "en": "Decentralized artificial intelligence application with end-to-end encrypted chat, AI communication tools, universal AI controller and IoT controller. Supports drone control, private AI connection and other innovative features."
+      },
+      "description": {
+        "zh": "TalkFlow是一个革命性的去中心化人工智能应用，旨在通过便携设备随时随地连接家庭私有AI。它不仅是一个聊天应用，更是一个完整的AI控制生态系统，支持无人机控制、物联网设备管理等高级功能。所有通信都采用军用级加密标准，无需依赖云服务器。",
+        "en": "TalkFlow is a revolutionary decentralized artificial intelligence application designed to connect to home private AI anytime, anywhere through portable devices. It is not only a chat application, but also a complete AI control ecosystem that supports advanced functions such as drone control and IoT device management. All communications use military-grade encryption standards without relying on cloud servers."
+      },
+      "author": "ponzS (Guoai Zhang)",
+      "publishDate": "2024-01-01",
+      "updateDate": "2024-01-15",
+      "category": "AI & Communication",
+      "technologies": ["Vue.js", "GunJS", "Gun-Vue", "Tauri", "Ollama", "TypeScript", "Ionic", "Three.js", "Capacitor", "Cordova", "FFmpeg"],
+      "status": "Active",
+      "featured": true,
+      "githubUrl": "https://github.com/ponzS/TalkFlow",
+      "demoUrl": "https://apps.apple.com/us/app/talkflow/id6736827124",
+      "coverImage": "/images/projects/talkflow-cover.jpg",
+      "mdPath": {
+        "zh": "/md/TalkFlow/README.zh.md",
+        "en": "/md/TalkFlow/README.md"
+      },
+      "screenshots": [
+        "/images/projects/talkflow-1.jpg",
+        "/images/projects/talkflow-2.jpg",
+        "/images/projects/talkflow-3.jpg"
+      ],
+      "features": {
+        "zh": [
+          "去中心化端到端加密聊天应用",
+          "去中心化人工智能通信工具",
+          "去中心化通用AI控制器",
+          "去中心化物联网控制器",
+          "全球去中心化分布式网状通信网络",
+          "无人机和机器人控制",
+          "私有AI家庭部署连接",
+          "军用级加密安全标准",
+          "强大的网络自愈能力",
+          "数据恢复和迁移能力",
+          "模块化架构设计",
+          "跨平台支持(iOS/Android/macOS/Windows)",
+          "无需云服务器运行",
+          "支持离线通信",
+          "Gun增量快照数据存储"
+        ],
+        "en": [
+          "Decentralized end-to-end encrypted chat application",
+          "Decentralized artificial intelligence communication tools",
+          "Decentralized universal AI controller",
+          "Decentralized IoT controller",
+          "Global decentralized distributed mesh communication network",
+          "Drone and robot control",
+          "Private AI home deployment connection",
+          "Military-grade encryption security standards",
+          "Powerful network self-healing capabilities",
+          "Data recovery and migration capabilities",
+          "Modular architecture design",
+          "Cross-platform support (iOS/Android/macOS/Windows)",
+          "No cloud server required",
+          "Offline communication support",
+          "Gun incremental snapshot data storage"
+        ]
+      },
+      "platforms": {
+        "ios": "https://apps.apple.com/us/app/talkflow/id6736827124",
+        "android": "https://github.com/ponzS/TalkFlow/releases/tag/v1.0.0",
+        "desktop": "支持macOS和Windows"
+      }
+    },
+    {
+      "id": "gun-vue-toolkit",
+      "title": {
+        "zh": "Gun-Vue - P2P Web应用工具包",
+        "en": "Gun-Vue - P2P Web Application Toolkit"
+      },
+      "slug": "gun-vue-toolkit",
+      "excerpt": {
+        "zh": "强大的点对点Web应用开发工具包，让你能够构建离线优先的渐进式Web应用，支持实时P2P数据同步和端到端加密。",
+        "en": "Powerful peer-to-peer web application development toolkit that enables you to build offline-first progressive web applications with real-time P2P data synchronization and end-to-end encryption."
+      },
+      "description": {
+        "zh": "Gun-Vue是一个革命性的点对点Web应用工具包，结合了Gun的去中心化数据库、SEA加密技术和Vue 3的现代前端能力。它让开发者能够快速构建无需中心化服务器的去中心化Web应用，支持离线优先、实时同步和端到端加密。",
+        "en": "Gun-Vue is a revolutionary peer-to-peer web application toolkit that combines Gun's decentralized database, SEA encryption technology, and Vue 3's modern frontend capabilities. It enables developers to quickly build decentralized web applications without centralized servers, supporting offline-first, real-time synchronization, and end-to-end encryption."
+      },
+      "author": "DeFUCC/Denis Starov",
+      "publishDate": "2020-01-01",
+      "updateDate": "2024-01-10",
+      "category": "Development Tools",
+      "technologies": ["Vue.js", "GunJS", "SEA", "TypeScript", "Vite", "WebRTC", "WebTorrent", "PNPM"],
+      "status": "Active",
+      "featured": true,
+      "githubUrl": "https://github.com/DeFUCC/gun-vue",
+      "demoUrl": "https://gun-vue.js.org/app",
+      "websiteUrl": "https://gun-vue.js.org",
+      "coverImage": "/images/projects/gun-vue-toolkit-cover.jpg",
+      "mdPath": {
+        "zh": "/md/gun-vue/README.md",
+        "en": "/md/gun-vue/README.md"
+      },
+      "features": {
+        "zh": [
+          "离线优先的渐进式Web应用(PWA)",
+          "点对点(P2P)实时数据同步",
+          "端到端加密(E2EE)通信",
+          "去中心化社交发布",
+          "WebTorrent文件分享",
+          "Vue 3组合式API",
+          "可重用的组合式函数",
+          "预构建的UI组件",
+          "Gun中继节点服务器",
+          "人类可识别的视觉公钥表示",
+          "ESM模块化架构",
+          "TypeScript支持",
+          "无需中心化服务器"
+        ],
+        "en": [
+          "Offline-first Progressive Web Application (PWA)",
+          "Peer-to-peer (P2P) real-time data synchronization",
+          "End-to-end encrypted (E2EE) communication",
+          "Decentralized social publishing",
+          "WebTorrent file sharing",
+          "Vue 3 Composition API",
+          "Reusable composable functions",
+          "Pre-built UI components",
+          "Gun relay node server",
+          "Human-readable visual public key representation",
+          "ESM modular architecture",
+          "TypeScript support",
+          "No centralized server required"
+        ]
+      },
+      "packages": {
+        "app": "完整的演示应用",
+        "relay": "Gun中继节点服务器",
+        "components": "预构建Vue 3 UI组件",
+        "composables": "可重用的组合式函数",
+        "gun-avatar": "视觉公钥表示",
+        "gun-es": "ESM兼容的Gun模块"
+      }
+    },
+    {
+      "id": "gun-protocol",
+      "title": {
+        "zh": "Gun Database - 去中心化图数据同步协议",
+        "en": "Gun Database - Decentralized Graph Data Sync Protocol"
+      },
+      "slug": "gun-protocol",
+      "excerpt": {
+        "zh": "革命性的去中心化图数据库，支持实时P2P同步、端到端加密，被Internet Archive等数百个应用在生产环境中使用。",
+        "en": "Revolutionary decentralized graph database supporting real-time P2P synchronization and end-to-end encryption, used in production by Internet Archive and hundreds of other applications."
+      },
+      "description": {
+        "zh": "Gun是一个开源的去中心化数据库生态系统，让你能够构建社区运行和加密的应用程序。它是一个图同步协议，具有轻量级嵌入式引擎，能够在9KB压缩大小内实现每秒2000万+API操作。被Internet Archive和数百个其他应用在生产环境中使用。",
+        "en": "Gun is an open-source decentralized database ecosystem that enables you to build community-run and encrypted applications. It is a graph synchronization protocol with a lightweight embedded engine capable of 20M+ API operations per second in just 9KB compressed size. Used in production by Internet Archive and hundreds of other applications."
+      },
+      "author": "Mark Nadal",
+      "publishDate": "2014-01-01",
+      "updateDate": "2024-01-15",
+      "category": "Blockchain & P2P",
+      "technologies": ["JavaScript", "Gun", "P2P", "Database", "Cryptography", "WebRTC", "CRDT", "IndexedDB"],
+      "status": "Stable",
+      "featured": true,
+      "githubUrl": "https://github.com/amark/gun",
+      "websiteUrl": "https://gun.eco",
+      "demoUrl": "http://try.axe.eco/",
+      "coverImage": "/images/projects/gun-protocol-cover.jpg",
+      "mdPath": {
+        "zh": "/md/gun/README.md",
+        "en": "/md/gun/README.md"
+      },
+      "features": {
+        "zh": [
+          "默认多人实时P2P状态同步",
+          "图数据支持键值、表格、文档、视频等",
+          "本地优先、离线和去中心化",
+          "端到端加密",
+          "高性能(20M+ API ops/sec)",
+          "轻量级(~9KB gzipped)",
+          "CRDT冲突解决",
+          "网状网络和路由算法",
+          "分布式系统正确性",
+          "CPU调度JSON解析器",
+          "RadixDB存储序列化",
+          "支持浏览器和Node.js",
+          "Internet Archive生产使用",
+          "数百个应用在生产环境运行"
+        ],
+        "en": [
+          "Multi-user real-time P2P state synchronization by default",
+          "Graph data supports key-value, tables, documents, videos, etc.",
+          "Local-first, offline and decentralized",
+          "End-to-end encryption",
+          "High performance (20M+ API ops/sec)",
+          "Lightweight (~9KB gzipped)",
+          "CRDT conflict resolution",
+          "Mesh networking and routing algorithms",
+          "Distributed systems correctness",
+          "CPU scheduled JSON parser",
+          "RadixDB storage serialization",
+          "Browser and Node.js support",
+          "Internet Archive production usage",
+          "Hundreds of applications running in production"
+        ]
+      },
+      "useCases": [
+        "去中心化社交网络",
+        "实时协作工具",
+        "离线优先应用",
+        "加密聊天应用",
+        "分布式文件系统",
+        "区块链应用",
+        "物联网数据同步",
+        "游戏状态同步"
+      ],
+      "ecosystem": {
+        "alternatives": {
+          "zoom": "Meething - 开源浏览器视频会议",
+          "reddit": "NotaBug - 去中心化Reddit",
+          "instagram": "Iris - 去中心化社交",
+          "slack": "Iris - 去中心化通信",
+          "youtube": "D.tube - 去中心化视频",
+          "wikipedia": "去中心化知识库"
+        }
+      }
+    },
+    {
+      "id": "webrtc-mesh",
+      "title": {
+        "zh": "P2PMesh - 基于WebRTC的点对点网状网络",
+        "en": "P2PMesh - WebRTC-based Peer-to-Peer Mesh Network"
+      },
+      "slug": "webrtc-mesh",
+      "excerpt": {
+        "zh": "基于WebRTC的点对点网状网络库，支持可靠消息广播、Kademlia DHT、模块化架构和岛屿愈合机制。",
+        "en": "WebRTC-based peer-to-peer mesh network library supporting reliable message broadcasting, Kademlia DHT, modular architecture, and island healing mechanisms."
+      },
+      "description": {
+        "zh": "P2PMesh是一个基于WebRTC技术的点对点网状网络库，专为构建去中心化应用而设计。它提供了可靠的消息广播、Kademlia分布式哈希表、模块化架构和自动岛屿愈合机制，支持跨平台部署。",
+        "en": "P2PMesh is a WebRTC-based peer-to-peer mesh network library designed for building decentralized applications. It provides reliable message broadcasting, Kademlia distributed hash table, modular architecture, and automatic island healing mechanisms with cross-platform support."
+      },
+      "author": "Daniel Raeder",
+      "publishDate": "2023-08-01",
+      "updateDate": "2024-01-05",
+      "category": "Networking",
+      "technologies": ["JavaScript", "WebRTC", "P2P", "Networking"],
+      "status": "Active",
+      "featured": false,
+      "githubUrl": "https://github.com/draeder/p2pmesh",
+      "coverImage": "/images/projects/webrtc-mesh-cover.jpg",
+      "mdPath": {
+        "zh": "/md/p2pmesh/README.md",
+        "en": "/md/p2pmesh/README.md"
+      },
+      "features": {
+        "zh": [
+          "WebRTC P2P连接",
+          "部分网格拓扑",
+          "实时数据传输",
+          "自动故障恢复",
+          "低延迟通信"
+        ],
+        "en": [
+          "WebRTC P2P connections",
+          "Partial mesh topology",
+          "Real-time data transmission",
+          "Automatic failure recovery",
+          "Low-latency communication"
+        ]
+      }
+    },
+    {
+      "id": "gun-vue-relay",
+      "title": {
+        "zh": "Gun-Vue Relay with Ollama - AI通信中继",
+        "en": "Gun-Vue Relay with Ollama - AI Communication Relay"
+      },
+      "slug": "gun-vue-relay",
+      "excerpt": {
+        "zh": "结合Gun数据库、Vue.js和Ollama AI的实时通信应用，支持智能对话和数据同步。",
+        "en": "Real-time communication application combining Gun database, Vue.js and Ollama AI, supporting intelligent conversations and data synchronization."
+      },
+      "description": {
+        "zh": "一个创新的实时通信应用，结合了Gun数据库的去中心化特性、Vue.js的现代前端能力和Ollama AI的智能对话功能，为用户提供智能化的通信体验。",
+        "en": "An innovative real-time communication application that combines the decentralized features of Gun database, the modern frontend capabilities of Vue.js, and the intelligent conversation functions of Ollama AI to provide users with an intelligent communication experience."
+      },
+      "author": "ponzS (Guoai Zhang)",
+      "publishDate": "2023-10-01",
+      "updateDate": "2024-01-12",
+      "category": "AI & Communication",
+      "technologies": ["JavaScript", "Vue.js", "Gun", "Ollama", "AI"],
+      "status": "Active",
+      "featured": false,
+      "githubUrl": "https://github.com/ponzS/Gun-Ollama-Relay",
+      "coverImage": "/images/projects/gun-vue-relay-cover.jpg",
+      "mdPath": {
+        "zh": "/md/gun-ollama/README.md",
+        "en": "/md/gun-ollama/README.md"
+      },
+      "features": {
+        "zh": [
+          "AI智能对话",
+          "实时数据同步",
+          "去中心化架构",
+          "Vue.js界面",
+          "Ollama集成"
+        ],
+        "en": [
+          "AI intelligent conversation",
+          "Real-time data synchronization",
+          "Decentralized architecture",
+          "Vue.js interface",
+          "Ollama integration"
+        ]
+      }
+    },
+    {
+      "id": "gunjs-sqlite-adapter",
+      "title": {
+        "zh": "GunJS SQLite Adapter - 移动端数据适配器",
+        "en": "GunJS SQLite Adapter - Mobile Data Adapter"
+      },
+      "slug": "gunjs-sqlite-adapter",
+      "excerpt": {
+        "zh": "为iOS和Android平台提供的GunJS SQLite数据库适配器，实现本地数据持久化存储。",
+        "en": "GunJS SQLite database adapter for iOS and Android platforms, enabling local data persistence storage."
+      },
+      "description": {
+        "zh": "专为移动端开发的GunJS数据库适配器，支持iOS和Android平台的SQLite本地存储，提供高性能的数据持久化解决方案。",
+        "en": "A GunJS database adapter specifically developed for mobile platforms, supporting SQLite local storage on iOS and Android platforms, providing high-performance data persistence solutions."
+      },
+      "author": "ponzS (Guoai Zhang)",
+      "publishDate": "2023-09-01",
+      "updateDate": "2023-11-20",
+      "category": "Mobile Development",
+      "technologies": ["TypeScript", "SQLite", "Gun", "Mobile", "iOS", "Android"],
+      "status": "Stable",
+      "featured": false,
+      "githubUrl": "https://github.com/ponzS/Gun-sqlite-capactitor-Adapter",
+      "coverImage": "/images/projects/gunjs-sqlite-adapter-cover.jpg",
+      "mdPath": {
+        "zh": "/md/gun-sqlite/README.md",
+        "en": "/md/gun-sqlite/README.md"
+      },
+      "features": {
+        "zh": [
+          "跨平台SQLite支持",
+          "高性能数据存储",
+          "GunJS无缝集成",
+          "移动端优化",
+          "离线数据同步"
+        ],
+        "en": [
+          "Cross-platform SQLite support",
+          "High-performance data storage",
+          "Seamless GunJS integration",
+          "Mobile optimization",
+          "Offline data synchronization"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "ai-communication",
+      "name": "AI & Communication",
+      "description": "人工智能和通信相关项目",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "development-tools",
+      "name": "Development Tools",
+      "description": "开发工具和框架",
+      "color": "#10B981"
+    },
+    {
+      "id": "blockchain-p2p",
+      "name": "Blockchain & P2P",
+      "description": "区块链和点对点技术",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "description": "网络和通信技术",
+      "color": "#EF4444"
+    },
+    {
+      "id": "mobile-development",
+      "name": "Mobile Development",
+      "description": "移动端开发相关项目",
+      "color": "#F59E0B"
+    }
+  ],
+  "technologies": [
+    {
+      "id": "vue",
+      "name": "Vue.js",
+      "count": 3
+    },
+    {
+      "id": "gunjs",
+      "name": "GunJS",
+      "count": 5
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "count": 3
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "count": 4
+    },
+    {
+      "id": "webrtc",
+      "name": "WebRTC",
+      "count": 2
+    },
+    {
+      "id": "p2p",
+      "name": "P2P",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "count": 2
+    }
+  ]
+}
